@@ -1,8 +1,8 @@
 <?php
 /*
-	Plugin Name: WP-Password Generator
+	Plugin Name: WP Password Generator
 	Plugin URI: http://stevegrunwell.com/wp-password-generator
-	Description: Generates a random password when creating a new WP user
+	Description: Generates a random password when creating a new WordPress user
 	Version: 2.1
 	Author: Steve Grunwell
 	Author URI: http://stevegrunwell.com
@@ -12,7 +12,7 @@
 define('WP_PASSWORD_GENERATOR_VERSION', '2.1');
 
 /**
- * Store the settings in a JSON-encoded array in the wp_options table
+ * Store the settings in a serialized array in the wp_options table
  *
  * Previous version of the readme.txt file encouraged users to edit wp_password_generator_generate()
  * in order to change characters or min/max lengths. Moving forward, the options will be stored in
