@@ -12,7 +12,7 @@ WP Password Generator takes the hassle out of creating new WordPress users by ge
 
 == Description ==
 
-**Notice:** With the [native password generation features being introduced in WordPress 4.3](https://make.wordpress.org/core/2015/07/28/passwords-strong-by-default/) this plugin is no longer necessary to generate strong passwords. You can [read more about the plugin sunsetting on the developer's blog](https://stevegrunwell.com/blog/sunsetting-wp-password-generator).**
+**Notice:** With the [native password generation features being introduced in WordPress 4.3](https://make.wordpress.org/core/2015/07/28/passwords-strong-by-default/) this plugin is no longer necessary to generate strong passwords. You can [read more about the plugin sunsetting on the developer's blog](https://stevegrunwell.com/blog/sunsetting-wp-password-generator).
 
 When administrators create new users through the WordPress admin interface (wp-admin/user-new.php), they are forced to come up with a password for the new user. The administrator is faced with a choice: use a separate password generator app or waste precious time coming up with a clever password only one person will ever see.
 
